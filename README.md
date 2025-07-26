@@ -60,7 +60,7 @@ I help businesses across EMEA and the Middle East transition into scalable, secu
 
 ## 💻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0100085&show_icons=true&theme=github_dark)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=0100085&show_icons=true&theme=github_dark](https://github.com/EslamAmin))
 
 ---
 
