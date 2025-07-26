@@ -1,64 +1,66 @@
-# 👋🏽 Eslam Amin — DevOps | Multi-Cloud | SDDC | Telco Cloud Architect
+# 🚀 Multi-Cloud Consultant | Building Resilient Infrastructure Across Cloud & Telco
 
-## 🚀 DevOps Engineer, Building Infrastructure That Scales With Your Business, Not Against It
+## What I Bring to the Table
 
----
+Results-driven Multi-Cloud Senior Consultant with 9+ years of hands-on experience designing and implementing cutting-edge infrastructure solutions. I specialize in hyper-scaler cloud platforms, SDDC, container orchestration, and virtualization technologies—bridging the gap between innovation and enterprise-scale delivery.
 
-## 🧠 What I Bring to the Table
-
-With over 9 years of hands-on experience in cloud, virtualization, and automation, I architect, deploy, and manage resilient cloud-native and hybrid infrastructures for enterprises across EMEA. From GCP and AWS to OCI and VMware SDDC, I turn complexity into predictable, scalable outcomes.
-
-I’m passionate about helping engineering teams accelerate innovation while maintaining security, compliance, and operational excellence.
+I help businesses across EMEA and the Middle East transition into scalable, secure, and highly available cloud-native architectures—empowering teams with automation, observability, and resilience.
 
 ---
 
-## ⚙️ Core Expertise
+## 🔧 Core Expertise
 
-- **☁️ Multi-Cloud Architecture** – AWS, GCP, OCI | Public & Hybrid Cloud Transformation
-- **🔄 Virtualization & SDDC** – vSphere, VCF, NSX-T, Cloud Director, AVI ALB
-- **🛠️ Infrastructure as Code** – Terraform | YAML | JSON | PowerShell | GitOps
-- **📦 Kubernetes & Containers** – TKG, Tanzu, Helm, Docker
-- **🔒 Security-First DevOps** – DR strategies, Zero Trust, automated compliance
-- **📈 Monitoring & Observability** – Aria Ops, Prometheus, Grafana
-- **📡 Telco & NFVI Expert** – CNF/VNF onboarding, ETSI standards, TOSCA/CSAR
-- **🚀 Automation Champion** – Scripting, CI/CD, and self-healing architecture
+- **Multi-Cloud Architecture**  
+  Deep experience in GCP, AWS, and OCI delivering scalable, cost-efficient, and high-availability solutions.
+
+- **VMware Ecosystem Expert**  
+  Hands-on with vSphere, VCF, VCD, VCD Availability, TCA, NSX-T, AVI ALB, and Aria Suite (Operations, Automation, Orchestrator, and Log Insight).
+
+- **Telco & NFVI Deployments**  
+  Delivered production-grade CNF/VNF platforms using ETSI standards, Helm Charts, CSAR/TOSCA onboarding, and automation tools.
+
+- **Kubernetes & Containerization**  
+  Deploying production-ready Kubernetes and Tanzu Kubernetes Grid (TKG) clusters for microservices and Telco workloads.
+
+- **Infrastructure as Code**  
+  Terraform automation for cloud and on-prem environments, ensuring repeatable, secure, and compliant deployments.
+
+- **Monitoring & Observability**  
+  Expertise with Aria Operations, Prometheus, Grafana, and full-stack visibility solutions.
+
+- **Disaster Recovery & Replication**  
+  Veeam, HCX, RackWare, and advanced DR strategies for hybrid-cloud workloads.
+
+- **Scripting & Automation**  
+  YAML, PowerShell, PowerCLI, VMware APIs, and JSON to drive automation at scale.
 
 ---
 
 ## 🏆 Recent Achievements
 
-- 🌐 Delivered mission-critical cloud infrastructure across KSA for financial and telecom sectors
-- 🔁 Automated end-to-end DR and failover processes using Terraform and cloud-native tools
-- ⏱️ Reduced deployment time and manual errors through GitOps & IaC pipelines
-- 🔧 Built scalable multi-tenant Kubernetes clusters with high availability
-- 📚 Led internal tech enablement and workshops to upskill teams
-- 💸 Reduced cloud spend through rightsizing, optimization, and intelligent automation
+- Designed and delivered full-stack hyper-scaler solutions across KSA for enterprise clients using AWS, OCI, and GCP.
+- Migrated and automated DR for critical infrastructure with Terraform and cloud-native services.
+- Reduced deployment time and human error by implementing GitOps and IaC pipelines.
+- Built multi-tenant Kubernetes environments with HA and security best practices.
+- Led large-scale VCD/Telco cloud transformations across EMEA for major enterprise accounts.
+- Conducted internal enablement workshops, brown bags, and technical training to uplift DevOps and Cloud skills across delivery teams.
+- Developed resilient CI/CD pipelines and observability strategies aligned with modern SRE principles.
 
 ---
 
-## 🧩 What Excites Me
+## 📚 Featured Content
 
-Working in fast-paced, innovative environments that embrace cloud-native technologies, automation, and scalable architecture. I enjoy delivering real business value while mentoring others on the "why" behind infrastructure decisions.
-
----
-
-## 📬 Let’s Connect!
-
-- 📧 Email: [eslamabdelnaser9@gmail.com](mailto:eslamabdelnaser9@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/eslam-amin-7a0079bb](https://www.linkedin.com/in/eslam-amin-7a0079bb)
-- 🧾 Credly Certifications: [credly.com/users/eslam-amin.6f847d18](https://www.credly.com/users/eslam-amin.6f847d18)
-- ✍️ Medium: [@EslamAmin93](https://medium.com/@EslamAmin93)
-- 📓 Blog: [cloudswifttech.wordpress.com](https://cloudswifttech.wordpress.com)
-- 💻 GitHub: [github.com/0100085](https://github.com/0100085)
+- 📘 [Cloud Blog – WordPress](https://cloudswifttech.wordpress.com)  
+- ✍️ [Medium Articles](https://medium.com/@EslamAmin93)  
+- 💼 [LinkedIn](https://linkedin.com/in/eslam-amin-7a0079bb/)  
+- 🧾 [Certifications – Credly](https://www.credly.com/users/eslam-amin.6f847d18/badges)
 
 ---
 
-## 📊 GitHub Stats
+## 💻 GitHub Stats
 
-![Eslam's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=0100085&show_icons=true&theme=github_dark](https://github.com/EslamAmin))
-
----
-
-_“Infrastructure should be a growth enabler, not a bottleneck.”_
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=0100085&show_icons=true&theme=github_dark](https://github.com/EslamAmin))
 
 ---
+
+_“Transforming complex cloud ecosystems into predictable, scalable platforms—one deployment at a time.”_
